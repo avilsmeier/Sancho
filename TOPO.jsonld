@@ -51,7 +51,7 @@
   },
   "body": {
     "bio": {
-      "@value": ""
+      "@value": "Member of CSPA, ALDEA. In collaboration with RatsDAO, MAYZ and several other projects. Active contributor in the technical community. Helping secure the Cardano network since the Shelley launch"
     },
     "dRepName": {
       "@value": "TOPO"
@@ -67,6 +67,24 @@
         },
         "uri": {
           "@value": "https://topopool.com"
+        }
+      },
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "https://twitter.com/TOPO_Pool"
+        }
+      },
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "https://t.me/TOPOpool"
         }
       }
     ]
